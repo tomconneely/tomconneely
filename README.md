@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m Tom Conneely
+- 🌱 I work as a software developer for TruckScience
+- 🌱 My blog: [tom.conneely.io](https://tom.conneely.io)
+- 🤔 I’m on Twitter https://twitter.com/tommyconneely
+- 🤔 I’m on Mastodon <a rel="me" href="https://twit.social/@tomconneely">https://twit.social/@tomconneely</a>
+- 📫 How to reach me: https://www.tomconneely.io/contact/
+
 <!--
 **tomconneely/tomconneely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
