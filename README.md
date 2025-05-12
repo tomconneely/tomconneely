@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 - 🔭 I’m Tom Conneely
-- 🌱 I work as a software developer for TruckScience
+- 🏢 I work as a software developer for TruckScience
 - 🌱 My blog: [tomconneely.io](https://tomconneely.io)
-- 🤔 I’m on Bluesky: [https://bsky.app/profile/tomconneely.bsky.social](https://bsky.app/profile/tomconneely.bsky.social)
-- 🤔 I’m on Mastodon: <a rel="me" href="https://twit.social/@tomconneely">https://twit.social/@tomconneely</a>
+- 🦋 I’m on Bluesky: [https://bsky.app/profile/tomconneely.bsky.social](https://bsky.app/profile/tomconneely.bsky.social)
+- 🐘 I’m on Mastodon: <a rel="me" href="https://twit.social/@tomconneely">https://twit.social/@tomconneely</a>
 - 🤔 I’m on Twitter: https://twitter.com/tommyconneely
 - 📫 How to reach me: https://www.tomconneely.io/contact/
 
